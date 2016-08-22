@@ -1,0 +1,227 @@
+fondo =#e89980;
+celeste_turquesa=#D5E7F8
+gris_claro = #E6E6E6
+gris_medio=#B8BBB6
+gris_oscuro = #393937
+turquesa=#20CED7
+verdoso=#173B3C
+crema= #FFECCB
+coral=#CB6453
+body
+	margin 0
+	padding 0
+	//background-image url('fondo.jpg')
+	//background-repeat no-repeat, repeat
+	background #dedbdb
+	width 100%
+	height 666px
+	input.cl_radio
+		display inline-block
+	h4
+		margin 0
+		padding 0
+		padding-top 3px;
+	h5
+		margin 0
+		padding 0
+	header
+		background #3b3f4b
+		width 100%
+		height 66px
+	.cl_cjalinear
+		display inline-block 
+		float left
+	
+	//----------------------------------------------------------------------------------------------------------------------
+		
+	nav.cl_cj_menu		
+		position relative
+		float left 
+		width 150px
+		height 650px
+		//background #F5A13A
+		z-index 999
+		width 15%
+		height 600px
+		background-image url('img/nav.jpg')	
+		ul			
+			float right 
+			padding 0
+			list-style none
+			border 0
+			margin 0 5px 0 0
+			width 150px
+			li
+				position relative
+				border 0
+				margin 0 0 0.3em 0
+				-moz-transition:max-height 2s linear
+				-o-transition:max-height 2s linear
+				-webkit-transition:max-height 2s linear
+				p
+					background #314608
+					padding 0.3em
+				a
+					text-align  right
+					text-decoration none
+					padding 0.5em	
+					font-size 16px			
+					background #DB8F5C
+					color #fff
+					display block
+					box-shadow 3px 4px 4px 0px rgba(15, 15, 20, 0.75)
+					border-radius 2px
+					-moz-transition:background 0.7s
+					-o-transition:background 0.7s
+					-webkit-transition:background 0.7s
+
+					-moz-transition:padding 0.7s
+					-o-transition:padding 0.7s
+					-webkit-transition:padding 0.7s
+				a:hover
+					padding 1.1em						
+					background #A86A40
+					font-size 16px
+					border-radius 5px 0 0 3px
+				ul	
+					position absolute 
+					top 0 
+					right -150px
+					z-index 999
+					background #DB8F5C
+					border-radius 0 5px 5px 0
+					margin 0 0 0 1px
+					display none											
+					li
+						margin 0
+						a	
+							box-shadow none
+							padding 0.3em
+							background none
+							margin 0 0 0 0.2em
+							border-radius 2px
+							font-size 13px;
+							-moz-transition:padding 0.7s
+							-o-transition:padding 0.7s
+							-webkit-transition:padding 0.7s
+							.cl_submenu
+								display none
+								li 
+									display none
+						a:hover
+							box-shadow none
+							background #A86A40
+							border-radius 2px
+							padding 0.3em
+							.cl_submenu
+								display block
+								li 
+									display block
+							
+			li:hover 
+				ul
+					display block
+					max-height: 500px
+	//-------------------------------------------------------------------------------------------------------------------------
+	
+		
+				
+	section.cl_cjloader
+		//background red
+		margin 0 0 0 0
+		width 85%
+		height 600px
+		
+	.cl_tabresultados, cl_tr_res , cl_td_res  {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 2px;
+	}
+	.cl_tabresultados tr:nth-child(odd)	{
+	    background-color: #f1f1f1;
+	}
+	.cl_tabresultados tr:nth-child(even) {
+	    background-color: #ffffff;
+	}
+	
+	table
+		margin 0 auto
+		tr
+			td
+				position relative
+				.cl_div_clientes
+					z-index 1
+					position absolute
+					width 100%
+					min-height auto
+					background #7A7474
+					max-height 300px
+					overflow auto
+					display none
+					a
+						font-size 14px
+						text-decoration none
+						color #000
+	input.cl_txt
+		width 98%
+		padding 2px 0 2px 0 
+		border solid 1px #1D8CE6
+		font-size 14px
+		
+	input.cl_txt1
+		width 100px
+		padding 2px 0 2px 0 
+		border solid 1px #1D8CE6
+		font-size 15px
+		
+	input.cl_txt2
+		text-align right
+		width 80px
+		padding 2px 4px 2px 0 
+		border solid 1px #1D8CE6
+		font-size 15px	
+		
+	input.cl_txt3
+		text-align right
+		width 55px
+		padding 2px 4px 2px 0 
+		border solid 1px #1D8CE6
+		font-size 15px		
+		
+	input.cl_txt_comp
+		width 150px;
+		
+	select.cl_cmb
+		padding 1px 0 1px 0
+		border solid 1px #1D8CE6
+		
+	input.cl_dat
+		padding 0
+		font-size 14.5px
+		border solid 1px #1D8CE6
+	input.cl_btn
+		background #575757
+		color #fff
+		padding 2px
+		//border-style none
+		border-radius 2px
+	input.cl_txt_vh
+		font-size 12px;
+		//box-shadow 3px 3px 5px 0px rgba(59, 54, 50, 0.55)
+	//input.cl_btn:hover
+		//box-shadow -3px -3px 5px 0px rgba(59, 54, 50, 0.55)
+	input.cl_radio
+		padding 4px
+		margin 7px 7px 7px 0
+	p.cl_ptab
+		font-size 14px
+	
+	p.cl_pimp
+		font-size 10px;
+		margin 0 
+		padding 2px 0 2px 0 
+	p.cl_etiq
+		font-family: Arial, Helvetica, sans-serif;
+		font-size 11px
+	p.cl_p_nc_com
+		font-size 11px;

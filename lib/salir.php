@@ -1,0 +1,9 @@
+<?php 
+session_start();
+/*session_unregister("nombres");
+session_unregister("user");
+session_unregister("empresa");
+session_unregister("cargo");*/
+session_destroy();
+header("location:../index.php");
+?>

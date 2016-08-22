@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+    <estado>AUTORIZADO</estado>
+    <numeroAutorizacion>0312201513371304915072680011808051691</numeroAutorizacion>
+    <fechaAutorizacion>2015-12-03T13:37:13-05:00</fechaAutorizacion>
+    <ambiente>PRODUCCIÓN</ambiente>
+    <comprobante>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;comprobanteRetencion id="comprobante" version="1.0.0"&gt;
+  &lt;infoTributaria&gt;
+    &lt;ambiente&gt;2&lt;/ambiente&gt;
+    &lt;tipoEmision&gt;1&lt;/tipoEmision&gt;
+    &lt;razonSocial&gt;ALMACEN DE INSUMOS AGRICOLAS, VETERINARIOS Y PRESTACION DE SERVICIOS AGROMUNDO S.C.																														&lt;/razonSocial&gt;
+    &lt;nombreComercial&gt;AGROMUNDO S.C. TULCAN&lt;/nombreComercial&gt;
+    &lt;ruc&gt;0491507268001&lt;/ruc&gt;
+    &lt;claveAcceso&gt;0312201507049150726800120010010000096631234567813&lt;/claveAcceso&gt;
+    &lt;codDoc&gt;07&lt;/codDoc&gt;
+    &lt;estab&gt;001&lt;/estab&gt;
+    &lt;ptoEmi&gt;001&lt;/ptoEmi&gt;
+    &lt;secuencial&gt;000009663&lt;/secuencial&gt;
+    &lt;dirMatriz&gt;COLON Y 09 DE OCTUBRE&lt;/dirMatriz&gt;
+  &lt;/infoTributaria&gt;
+  &lt;infoCompRetencion&gt;
+    &lt;fechaEmision&gt;03/12/2015&lt;/fechaEmision&gt;
+    &lt;dirEstablecimiento&gt;COLON Y 09 DE OCTUBRE&lt;/dirEstablecimiento&gt;
+    &lt;obligadoContabilidad&gt;SI&lt;/obligadoContabilidad&gt;
+    &lt;tipoIdentificacionSujetoRetenido&gt;04&lt;/tipoIdentificacionSujetoRetenido&gt;
+    &lt;razonSocialSujetoRetenido&gt;TIPAZ RAMIREZ WILSON GERMAN &lt;/razonSocialSujetoRetenido&gt;
+    &lt;identificacionSujetoRetenido&gt;1708212558001&lt;/identificacionSujetoRetenido&gt;
+    &lt;periodoFiscal&gt;11/2015&lt;/periodoFiscal&gt;
+  &lt;/infoCompRetencion&gt;
+  &lt;impuestos&gt;
+    &lt;impuesto&gt;
+      &lt;codigo&gt;1&lt;/codigo&gt;
+      &lt;codigoRetencion&gt;310&lt;/codigoRetencion&gt;
+      &lt;baseImponible&gt;55.00&lt;/baseImponible&gt;
+      &lt;porcentajeRetener&gt;1.00&lt;/porcentajeRetener&gt;
+      &lt;valorRetenido&gt;0.55&lt;/valorRetenido&gt;
+      &lt;codDocSustento&gt;01&lt;/codDocSustento&gt;
+      &lt;numDocSustento&gt;001001000000210&lt;/numDocSustento&gt;
+      &lt;fechaEmisionDocSustento&gt;27/11/2015&lt;/fechaEmisionDocSustento&gt;
+    &lt;/impuesto&gt;
+  &lt;/impuestos&gt;
+  &lt;infoAdicional&gt;
+    &lt;campoAdicional nombre="Dirección"&gt;RIO VINCES Y AV  JOSE JULIAN ANDRADE&lt;/campoAdicional&gt;
+    &lt;campoAdicional nombre="Email"&gt;wilsongerman71@gmail.com&lt;/campoAdicional&gt;
+    &lt;campoAdicional nombre="Telf"&gt;0994173826&lt;/campoAdicional&gt;
+  &lt;/infoAdicional&gt;
+&lt;ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature990299"&gt;
+&lt;ds:SignedInfo Id="Signature-SignedInfo47940"&gt;
+&lt;ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"&gt;&lt;/ds:CanonicalizationMethod&gt;
+&lt;ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"&gt;&lt;/ds:SignatureMethod&gt;
+&lt;ds:Reference Id="SignedPropertiesID596672" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature990299-SignedProperties165419"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;sBxVfoVQlYTh+7FeveC5JCHsnVA=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference URI="#Certificate1549994"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;rU0Y8RDd/A8jO5vrWD78Jhh31oI=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference Id="Reference-ID-749570" URI="#comprobante"&gt;
+&lt;ds:Transforms&gt;
+&lt;ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"&gt;&lt;/ds:Transform&gt;
+&lt;/ds:Transforms&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;
+&lt;ds:DigestValue&gt;HH2MlvTvOoeqyEVl5kqcG3MBaWU=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;/ds:SignedInfo&gt;
+&lt;ds:SignatureValue Id="SignatureValue1026828"&gt;
+E8+IvVmy4OKHZMm+xE6Lah91N9uSqnHuoYX2bI94p6uo9llGZmMlp2ewjTeMtAhZhw2RKq+ALzxF
+0yioUzj0MrC2TCksUeOhWNBGj1ZzvewiKzBLky4WRiNbDqOl9KDU5l73tA7NTJrbRoJ8nCR1kth6
+W/hYzv21e99OhZBvdi5HgE1fFbS+g2JaYIbZqBj3ljpOKRDFhtGdJRsDsR9adbqdy0UyjUhuF3Oe
+s0XijQrCQk+aLa38FpOMJygZ4w2fVg0fKjwONC9XcTgnPG1Ufj1mLYkojksHTAPuLtw83Xz4g1fh
+J3Iibuffg5CShImPHX6a6Wo7RJIbq90RY84b2A==
+&lt;/ds:SignatureValue&gt;
+&lt;ds:KeyInfo Id="Certificate1549994"&gt;
+&lt;ds:X509Data&gt;
+&lt;ds:X509Certificate&gt;
+MIIKOzCCCCOgAwIBAgIETkPY8DANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE0MTIyOTE1MjE0N1oXDTE1MTIyOTE1NTE0
+N1owgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDA5ODYxMDAkBgNVBAMTHUxVSVMgR0VSQVJETyBU
+SVBBWiBQSUFSUFVFWkFOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAui19TH2W7OEd
+xhy0aOAu0GoT4y/Bs8h+QJlrNxwcO+EYLIXPWki8mUnGc2zgz9nJwQQHBqnFfE9LbWZMPVSHl7xn
+m0JO0+sWFGWhmCeFKIwd8lJDq0EDVSGqqlwVGVwyO8g8WPUhnsgQJlGRBhsFzja3f0i6o+Q3+yAR
+uOXvg4fTBsp+EVxVKZ5QU0tcrQgavUNmZsBXHAePT4C+aIv5dKpXd27AwMWunowkJDR0cfL6J6ze
+23cvkCB6RCky+KokcGcdjpgq5TSzO6G39S2cZpFyYyClU9H/RjsMBeB7fenan/IkMnkPYcBA6Upc
+Pn8BuGsEsbbgI86zaNRwPZqJOQIDAQABo4IFYzCCBV8wCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDBhBgorBgEEAYKoOwMKBFMTUUFMTUFDRU4gREUgSU5TVU1PUyBBR1JJQ09M
+QVMgVkVURVJJTkFSSU9TIFkgUFJFU1RBQ0lPTiBERSBTRVJWSUNJT1MgQUdST01VTkRPIFMgQzAd
+BgorBgEEAYKoOwMLBA8TDTA0OTE1MDcyNjgwMDEwGgYKKwYBBAGCqDsDAQQMEwowNDAwNzkxNTM5
+MBwGCisGAQQBgqg7AwIEDhMMTFVJUyBHRVJBUkRPMBUGCisGAQQBgqg7AwMEBxMFVElQQVowGgYK
+KwYBBAGCqDsDBAQMEwpQSUFSUFVFWkFOMBcGCisGAQQBgqg7AwUECRMHR0VSRU5URTAlBgorBgEE
+AYKoOwMHBBcTFUNPTE9OIFkgMDkgREUgT0NUVUJSRTAZBgorBgEEAYKoOwMIBAsTCTA2Mjk4NzAy
+NzAWBgorBgEEAYKoOwMJBAgTBlR1bGNhbjAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYB
+BAGCqDsDMgQPEw0wNDkxNTA3MjY4MDAxMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElW
+TzAhBgNVHREEGjAYgRZhZ3JvbXVuZG9fc2NAeWFob28uY29tMIIB3wYDVR0fBIIB1jCCAdIwggHO
+oIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTg4LGNuPUFDJTIw
+QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUy
+MENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJB
+TCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0
+dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIx
+CzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQL
+Ey5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQH
+EwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMG
+Q1JMMTg4MCsGA1UdEAQkMCKADzIwMTQxMjI5MTUyMTQ3WoEPMjAxNTEyMjkxNTUxNDdaMB8GA1Ud
+IwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBT9RcGJ8sB37oDYO2Mqv70FrsRK
+sDAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4IC
+AQAH/W9xN1XGWid9dYcFpv4aAujaw5WOmvKCDgGq2P6Hkpvr2p/IsWBG/OStB0t+JghXg/ivxkbk
+EXKlj+JrtJZXkITIzvY2mQIgzDslQ3hEvyFFIp146lOm31W91B6LjhoGCXXxtGBYt5baTEs2xjTc
+ANqE+Spr5yZOmhAhhkeY4CQUcmpi7rxfkx6hfKQT7dpRuZ3EN2pu+jw3Ni05XBFlJEe1LNwsP8xp
+241nkasPWORYfQPUcGTmlqmciqXs4UlVtZ73+6lKTzi9Gbhipn1UVMSMH36uLIVAH1Lg/SqztsHd
+2rNG2BHxa+SeVU9tuJeaD18SbyqtDG7WuyhH+r5qzr1LE0ceRN8m9PmJi20j0Mgg6YUXxeA7476b
+ZLPo8OHU3MUH7IepHBEeBUb1gGVvrDcsKMOBvKr+OY0GbRFIHkpbq/TMa7kOnTVyJwKdeaEYPhQU
+Sbju1K6X+7yOJVuGff/NiL+KYjEzggfs7/zQmQcK5NqxdH4SkVWN7faeISQkSc0IJexd5fJrT+l5
+t+YuWHxCtFS3EhG1WISTXXBae7VJdtSB2JEuREAbRHNWXH0UjxJ/Bc8IlpSKwb5P9eUb0pIBqVr5
+urDZe0tFJ19MducaDgbOTiddKaOQMgzR17nHgFenkpXOOh4hXS9lPHRa4BBxQu/8UF55unpdlyqY
+VQ==
+&lt;/ds:X509Certificate&gt;
+&lt;/ds:X509Data&gt;
+&lt;ds:KeyValue&gt;
+&lt;ds:RSAKeyValue&gt;
+&lt;ds:Modulus&gt;
+ui19TH2W7OEdxhy0aOAu0GoT4y/Bs8h+QJlrNxwcO+EYLIXPWki8mUnGc2zgz9nJwQQHBqnFfE9L
+bWZMPVSHl7xnm0JO0+sWFGWhmCeFKIwd8lJDq0EDVSGqqlwVGVwyO8g8WPUhnsgQJlGRBhsFzja3
+f0i6o+Q3+yARuOXvg4fTBsp+EVxVKZ5QU0tcrQgavUNmZsBXHAePT4C+aIv5dKpXd27AwMWunowk
+JDR0cfL6J6ze23cvkCB6RCky+KokcGcdjpgq5TSzO6G39S2cZpFyYyClU9H/RjsMBeB7fenan/Ik
+MnkPYcBA6UpcPn8BuGsEsbbgI86zaNRwPZqJOQ==
+&lt;/ds:Modulus&gt;
+&lt;ds:Exponent&gt;AQAB&lt;/ds:Exponent&gt;
+&lt;/ds:RSAKeyValue&gt;
+&lt;/ds:KeyValue&gt;
+&lt;/ds:KeyInfo&gt;
+&lt;ds:Object Id="Signature990299-Object301486"&gt;&lt;etsi:QualifyingProperties Target="#Signature990299"&gt;&lt;etsi:SignedProperties Id="Signature990299-SignedProperties165419"&gt;&lt;etsi:SignedSignatureProperties&gt;&lt;etsi:SigningTime&gt;2015-12-03T12:38:31-05:00&lt;/etsi:SigningTime&gt;&lt;etsi:SigningCertificate&gt;&lt;etsi:Cert&gt;&lt;etsi:CertDigest&gt;&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"&gt;&lt;/ds:DigestMethod&gt;&lt;ds:DigestValue&gt;4e5dbuKWhx658KA4hnUdgZZVoE8=&lt;/ds:DigestValue&gt;&lt;/etsi:CertDigest&gt;&lt;etsi:IssuerSerial&gt;&lt;ds:X509IssuerName&gt;CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC&lt;/ds:X509IssuerName&gt;&lt;ds:X509SerialNumber&gt;1313069296&lt;/ds:X509SerialNumber&gt;&lt;/etsi:IssuerSerial&gt;&lt;/etsi:Cert&gt;&lt;/etsi:SigningCertificate&gt;&lt;/etsi:SignedSignatureProperties&gt;&lt;etsi:SignedDataObjectProperties&gt;&lt;etsi:DataObjectFormat ObjectReference="#Reference-ID-749570"&gt;&lt;etsi:Description&gt;contenido comprobante&lt;/etsi:Description&gt;&lt;etsi:MimeType&gt;text/xml&lt;/etsi:MimeType&gt;&lt;/etsi:DataObjectFormat&gt;&lt;/etsi:SignedDataObjectProperties&gt;&lt;/etsi:SignedProperties&gt;&lt;/etsi:QualifyingProperties&gt;&lt;/ds:Object&gt;&lt;/ds:Signature&gt;&lt;/comprobanteRetencion&gt;</comprobante>
+    <mensajes/>
+</autorizacion>
